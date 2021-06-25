@@ -10,4 +10,4 @@ This project outcome is classfication problem.
 ![enter image description here](https://github.com/sivaranjanivedhagiri/hr-employee-attrition-Sivaranjani/blob/main/hr-analytics-10.jpg?raw=true)
 
  
-To check my note book please check [here](https://github.com/sivaranjanivedhagiri/voice-recognition/blob/main/Voice_recognition%20-%20Ipython%20file.ipynb).
+To check my note book please check [here](https://github.com/sivaranjanivedhagiri/hr-employee-attrition/blob/main/HR_Analytics.ipynb).
